@@ -1,7 +1,7 @@
 var cities=
 {
   first : "Krachi",
-  second: "John",
+  second: "Lahore",
   third : " Islamabad",
   fourth : "Quetta"
 };
