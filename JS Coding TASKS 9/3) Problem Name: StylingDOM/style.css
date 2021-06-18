@@ -1,0 +1,12 @@
+.MyClass
+{
+  font-size: 40px;
+  border: 5px solid red;
+  color:blue;
+}
+div
+{
+  font-size: 30px;
+  border: 2px solid yellow;
+  color:green;
+}
